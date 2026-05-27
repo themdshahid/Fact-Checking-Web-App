@@ -1,0 +1,13 @@
+fact-check-agent/
+│
+├── app.py
+├── requirements.txt
+├── .env
+├── services/
+│   ├── pdf_reader.py
+│   ├── claim_extractor.py
+│   ├── web_search.py
+│   └── verifier.py
+│
+└── utils/
+    └── helpers.py
