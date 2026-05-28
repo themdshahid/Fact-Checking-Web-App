@@ -1,0 +1,6 @@
+python-> .env ( for virtual environment python)
+streamlit
+openai
+PyPDF2
+tavila-python
+pandas
