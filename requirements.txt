@@ -1,4 +1,4 @@
-python-> .env ( for virtual environment python)
+python-> .env ( for virtual environment)
 streamlit
 openai
 PyPDF2
