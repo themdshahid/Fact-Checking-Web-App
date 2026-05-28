@@ -1,6 +1,23 @@
-python-> .env ( for virtual environment)
-streamlit
-openai
-PyPDF2
-tavila-python
-pandas
+1. python-dotenv : 
+    Loads secret API keys from .env file
+Ex- from dotenv import load_dotenv
+
+2. streamlit :
+  Used to build the web interface
+Ex- import streamlit as st
+
+3. Openai :
+     Connects your app with OpenAI models
+Ex- from openai import OpenAI
+
+4. PyPDF2 :
+    Reads and extracts text from PDF files
+Ex- from PyPDF2 import PdfReader
+
+5. tavila-python :
+    Performs live web searches
+Ex- from tavily import TavilyClient
+
+6. pandas :
+    Organizes fact-check results into tables
+Ex- import pandas as pd
