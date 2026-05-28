@@ -1,7 +1,6 @@
 fact-check-agent/
 │
 ├── app.py
-├── requirements.txt
 ├── .env
 ├── services/
 │   ├── pdf_reader.py
